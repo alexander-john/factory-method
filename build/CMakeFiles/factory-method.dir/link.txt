@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\factory-method.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\factory-method.dir/objects.a @CMakeFiles\factory-method.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\factory-method.dir/objects.a -Wl,--no-whole-archive -o factory-method.exe -Wl,--out-implib,libfactory-method.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\factory-method.dir\linkLibs.rsp

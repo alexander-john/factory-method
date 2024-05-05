@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Shawn/Desktop/small projects/factory-method/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\factory-method.dir\\main.cpp.obj -c \"C:\\Users\\Shawn\\Desktop\\small projects\\factory-method\\main.cpp\"",
+  "file": "C:/Users/Shawn/Desktop/small projects/factory-method/main.cpp",
+  "output": "CMakeFiles/factory-method.dir/main.cpp.obj"
+}
+]
